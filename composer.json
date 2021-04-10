@@ -22,5 +22,8 @@
     },
     "config": {
         "sort-packages": true
+    },
+    "scripts": {
+        "changed-files": "git diff --name-only origin/master"
     }
 }
