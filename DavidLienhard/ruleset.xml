@@ -2,9 +2,6 @@
 <ruleset name="DavidLienhard coding standard">
     <description>DavidLienhard coding standard</description>
 
-    <!-- relative path from PHPCS source location -->
-    <config name="installed_paths" value="../../slevomat/coding-standard"/>
-
     <!-- inherit rules -->
     <rule ref="PSR2" />
 
