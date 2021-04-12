@@ -101,6 +101,15 @@
         <exclude name="SlevomatCodingStandard.TypeHints.ReturnTypeHint.MissingTraversableTypeHintSpecification" />
     </rule>
 
+    <!-- format union typehint -->
+    <rule ref="SlevomatCodingStandard.TypeHints.UnionTypeHintFormat">
+        <properties>
+            <property name="withSpaces" value="no" />
+            <property name="shortNullable" value="no" />
+            <property name="nullPosition" value="last" />
+        </properties>
+    </rule>
+
     <!-- dont display warnings -->
     <arg name="warning-severity" value="0"/>
 
