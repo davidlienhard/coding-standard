@@ -1,6 +1,7 @@
 {
     "name": "davidlienhard/coding-standard",
     "description": "DavidLienhard PHPCS Coding Standard",
+	"license": ["MIT"],
     "keywords": ["phpcs", "CodeSniffer"],
     "type": "phpcodesniffer-standard",
     "authors": [
