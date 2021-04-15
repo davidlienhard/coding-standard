@@ -6,9 +6,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 10
     assignees:
-    - "davidlienhard"
-    reviewers:
-    - "davidlienhard"
+      - "davidlienhard"
     labels:
       - "system"
       - "type/enhancement"
@@ -19,9 +17,7 @@ updates:
     schedule:
       interval: "daily"
     assignees:
-    - "davidlienhard"
-    reviewers:
-    - "davidlienhard"
+      - "davidlienhard"
     labels:
       - "system"
       - "type/enhancement"
