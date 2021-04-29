@@ -122,6 +122,7 @@
     <rule ref="SlevomatCodingStandard.Functions.RequireArrowFunction" />
     <rule ref="SlevomatCodingStandard.Namespaces.AlphabeticallySortedUses" />
     <rule ref="SlevomatCodingStandard.Classes.ClassConstantVisibility" />
+    <rule reg="SlevomatCodingStandard.Namespaces.UseDoesNotStartWithBackslash" />
     <rule ref="SlevomatCodingStandard.Functions.RequireSingleLineCall">
         <properties>
             <property name="maxLineLength" value="70"/>
