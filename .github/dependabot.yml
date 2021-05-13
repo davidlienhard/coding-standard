@@ -8,9 +8,8 @@ updates:
     assignees:
       - "davidlienhard"
     labels:
-      - "system"
-      - "type/enhancement"
-      - "type/dependencies"
+      - "enhancement"
+      - "dependencies"
 
   - package-ecosystem: "github-actions"
     directory: "/"
@@ -19,6 +18,5 @@ updates:
     assignees:
       - "davidlienhard"
     labels:
-      - "system"
-      - "type/enhancement"
-      - "type/dependencies"
+      - "enhancement"
+      - "dependencies"
