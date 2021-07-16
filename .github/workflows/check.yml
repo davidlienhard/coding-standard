@@ -20,7 +20,7 @@ jobs:
     - run: git fetch origin master
 
     - name: Setup PHP ${{ matrix.php }}
-      uses: shivammathur/setup-php@2.11.0
+      uses: shivammathur/setup-php@2
       with:
         php-version: ${{ matrix.php }}
         extensions: imagick
