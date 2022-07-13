@@ -22,7 +22,10 @@
         "slevomat/coding-standard": "^8"
     },
     "config": {
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "dealerdirect/phpcodesniffer-composer-installer": true
+        }
     },
     "scripts": {
         "changed-files": "git diff --name-only origin/master"
