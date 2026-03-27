@@ -1,5 +1,5 @@
 # DavidLienhard PHP Coding Standard
-Coding Standard for [PHP_Codesniffer](https://github.com/squizlabs/PHP_CodeSniffer) based on PSR2 & [Slevomat Coding-Standard](https://github.com/slevomat/coding-standard)
+Coding Standard for [PHP_Codesniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) based on PSR2 & [Slevomat Coding-Standard](https://github.com/slevomat/coding-standard)
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/davidlienhard/coding-standard.svg?style=flat-square)](https://packagist.org/packages/davidlienhard/coding-standard)
 [![Source Code](https://img.shields.io/badge/source-davidlienhard/coding--standard-blue.svg?style=flat-square)](https://github.com/davidlienhard/coding-standard)
