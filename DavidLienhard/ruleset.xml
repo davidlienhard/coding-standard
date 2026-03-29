@@ -137,6 +137,7 @@
 
     <rule ref="SlevomatCodingStandard.ControlStructures.RequireShortTernaryOperator" />
     <rule ref="SlevomatCodingStandard.ControlStructures.RequireTernaryOperator" />
+    <rule ref="SlevomatCodingStandard.ControlStructures.DisallowTrailingMultiLineTernaryOperator" />
 
     <rule ref="SlevomatCodingStandard.Variables.UnusedVariable">
         <properties>
